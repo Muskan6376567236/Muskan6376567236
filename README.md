@@ -20,7 +20,7 @@
   <img src="https://profile-counter.glitch.me/Muskan6376567236/count.svg" alt="Visitor Counter" />
 </p>
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 💫 About Me
 
@@ -32,7 +32,7 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
 - 🧠 **Focus Areas**: Deep Learning, Computer Vision, Multi-Agent Systems, Natural Language Processing, and Autonomous Robotics.
 - 🌱 **Current Pursuits**: Diving deep into Multi-Modal Models, LLM fine-tuning, and advanced robot kinematics (ROS).
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 🛠️ Tech Stack & Skills
 
@@ -40,7 +40,7 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
   <img src="https://skillicons.dev/icons?i=py,c,html,css,pytorch,tensorflow,pandas,git,github,ubuntu,linux,ros&theme=dark&perline=6" alt="Muskan's Skills" />
 </p>
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 🔬 Research & Professional Experience
 
@@ -50,7 +50,7 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
 - **Hardware Integration**: Successfully integrated Intel RealSense D435 RGB-D depth sensors with Python and C++ on Ubuntu.
 - **Benchmarking**: Rigorously evaluated trajectory tracking and odometry performance on standard datasets including EuRoC MAV and TUM VI.
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 📝 Publications
 
@@ -59,7 +59,7 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
 - *M. Sethi, A. Goel and S. Ratna, "CHIMERA: An Agent-Based Business Intelligence Framework," 2026 1st International Electronics & Packaging Technologies Conference (EPT India).*
 - 🔗 **IEEE Xplore link**: [Access Paper](https://ieeexplore.ieee.org/document/11496374)
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 🚀 Highlighted Projects
 
@@ -78,7 +78,7 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
     *   Developed a Convolutional Neural Network (CNN) in **Keras/TensorFlow** to classify histopathological images.
     *   Implemented data augmentation techniques (rotation, zoom, flips) and fine-tuned hyperparameters to mitigate overfitting, achieving a peak validation accuracy of **98%**.
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 🏆 Achievements & Certifications
 
@@ -87,7 +87,7 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
 *   📜 **Probability Theory for Data Science**: NPTEL Certification (May 2025)
 *   👥 **Content Head & Founding Member** – *Srijan Society* *(Oct 2023 – Jul 2024)*: Led creative content strategy, digital branding, and organized community-building student workshops.
 
----
+<img src="./divider.svg" width="100%" />
 
 ### 📊 GitHub Activity & Stats
 

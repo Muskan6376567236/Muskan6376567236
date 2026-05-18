@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 10" width="100%" height="10" style="background: transparent;">
+  <style>
+    @keyframes ray-flow {
+      0% { x: -200px; }
+      100% { x: 800px; }
+    }
+    @keyframes line-pulse {
+      0% { opacity: 0.2; }
+      50% { opacity: 0.5; }
+      100% { opacity: 0.2; }
+    }
+    .base-line {
+      fill: #313244;
+      animation: line-pulse 4s infinite ease-in-out;
+    }
+    .glowing-ray {
+      width: 200px;
+      height: 2px;
+      fill: url(#ray-grad);
+      animation: ray-flow 3s infinite linear;
+    }
+  </style>
+  <defs>
+    <linearGradient id="ray-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#89b4fa" stop-opacity="0" />
+      <stop offset="30%" stop-color="#89b4fa" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#f5c2e7" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#f5c2e7" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow-filter">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Static base pipeline path -->
+  <rect x="0" y="4" width="800" height="1.5" class="base-line" />
+
+  <!-- Active Neon light ray moving from left to right -->
+  <rect y="3.5" height="2.5" class="glowing-ray" filter="url(#glow-filter)" />
+</svg>
