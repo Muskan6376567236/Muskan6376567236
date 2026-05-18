@@ -124,8 +124,8 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muskan6376567236&show_icons=true&theme=tokyonight&count_private=true" alt="Muskan's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan6376567236&layout=compact&theme=tokyonight" alt="Muskan's Top Languages" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Muskan6376567236&show_icons=true&theme=tokyonight&count_private=true" alt="Muskan's GitHub Stats" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Muskan6376567236&layout=compact&theme=tokyonight" alt="Muskan's Top Languages" height="180px" />
 </p>
 
 <p align="center">
