@@ -1,0 +1,131 @@
+<h1 align="center">Hi there! I'm Muskan Sethi 👋</h1>
+<p align="center">
+  <strong>B.Tech in Artificial Intelligence Student @ Amity University</strong> | <strong>AI & Deep Learning Enthusiast</strong> | <strong>Research Intern</strong>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muskan-sethi-99a512256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:muskansethi72@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Muskan6376567236"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Muskan6376567236/Muskan6376567236/blob/main/Muskan_CV.pdf"><img src="https://img.shields.io/badge/View_CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV" /></a>
+</p>
+
+---
+
+### 💫 About Me
+
+I am a passionate **Artificial Intelligence** engineering student specializing in building smart agents, computer vision pipelines, and deep learning architectures. With a strong theoretical foundation and hands-on research and industry-relevant internship experience, I enjoy working at the intersection of AI, Robotics, and Data Science.
+
+- 🎓 **Education**: Pursuing **Bachelor of Technology in Artificial Intelligence** at **Amity University** (Noida, India) with a current grade of **7.68 CGPA** (Expected graduation: 2026).
+- 🔬 **Research Experience**: Completed a prestigious international **Research Internship** at **Eastern International University (EIU), Vietnam**, developing self-driving and navigation algorithms.
+- 📝 **Publications**: Published an IEEE-indexed research paper on agentic business intelligence workflows (**CHIMERA**).
+- 🧠 **Focus Areas**: Deep Learning, Computer Vision, Multi-Agent Systems, Natural Language Processing, and Autonomous Robotics.
+- 🌱 **Current Pursuits**: Diving deep into Multi-Modal Models, LLM fine-tuning, and advanced robot kinematics (ROS).
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages & Core</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🧠 AI & Deep Learning</h4>
+      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" alt="Deep Learning" />
+      <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square" alt="NLP" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-008080?style=flat-square" alt="Computer Vision" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-000080?style=flat-square" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Multi%20Modal%20Models-2E8B57?style=flat-square" alt="Multi Modal Models" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚙️ Frameworks & Libraries</h4>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🔧 Tools & Environments</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="RealSense" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔬 Research & Professional Experience
+
+💼 **Research Intern** – *Eastern International University (EIU), Vietnam* *(May 2025 – Jul 2025)*
+- **Self-Driving Algorithms**: Designed and implemented self-driving control algorithms for autonomous mobile robots.
+- **Visual Odometry**: Built a highly efficient ORB-based feature extraction and matching pipeline for real-time robotic pose estimation.
+- **Hardware Integration**: Successfully integrated Intel RealSense D435 RGB-D depth sensors with Python and C++ on Ubuntu.
+- **Benchmarking**: Rigorously evaluated trajectory tracking and odometry performance on standard datasets including EuRoC MAV and TUM VI.
+
+---
+
+### 📝 Publications
+
+📄 **CHIMERA: An Agent-Based Business Intelligence Framework** *(EPDMC 2026 / IEEE Xplore)*
+- Published a first-author paper focused on AI-driven automated analytics. The framework uses LLM-based conversational intelligence, LangChain, and multi-agent workflows to automate complex business intelligence data pipelines.
+- *M. Sethi, A. Goel and S. Ratna, "CHIMERA: An Agent-Based Business Intelligence Framework," 2026 1st International Electronics & Packaging Technologies Conference (EPT India).*
+- 🔗 **IEEE Xplore link**: [Access Paper](https://ieeexplore.ieee.org/document/11496374)
+
+---
+
+### 🚀 Highlighted Projects
+
+*   🔮 **CHIMERA: Agentic BI Framework** *(Sep 2025 – Nov 2025)*
+    *   Designed a multi-agent system coordinating tasks for end-to-end data preprocessing, SQL query generation, data analysis, and report visualisations.
+    *   Leveraged **LangChain** and **Mistral-7B** to create a conversational interface allowing non-technical users to run complex database analytics.
+    *   Automated charting and dashboard generation, increasing analytical workflow efficiency by over 40%.
+*   🤖 **Autonomous Mobile Robot Navigation (Visual Odometry)** *(May 2025 – Jul 2025)*
+    *   Built a real-time visual odometry navigation stack using monocular camera feeds.
+    *   Programmed an ORB-based feature extraction and descriptor matching pipeline in **C++** and **Python** utilizing **OpenCV** and **ROS**.
+    *   Demonstrated robust trajectory estimation with low drift rate against high-accuracy ground truths from EuRoC MAV datasets.
+*   📈 **Website Traffic Forecasting (LSTM + GRU Fusion)** *(May 2023 – Jul 2023)*
+    *   Engineered a hybrid recurrent neural network combining LSTM and GRU units to forecast highly volatile web traffic.
+    *   Extracted key temporal features (day of week, seasonality, holidays) and trained the network using TensorFlow, achieving superior prediction accuracy over standard ARIMA baselines.
+*   🎗️ **Breast Cancer Detection using CNN** *(Jul 2024 – Sep 2024)*
+    *   Developed a Convolutional Neural Network (CNN) in **Keras/TensorFlow** to classify histopathological images.
+    *   Implemented data augmentation techniques (rotation, zoom, flips) and fine-tuned hyperparameters to mitigate overfitting, achieving a peak validation accuracy of **98%**.
+
+---
+
+### 🏆 Achievements & Certifications
+
+*   🏅 **Ericsson Edge Academia Program**: Ranked among the **Top 500 students** nationwide.
+*   📜 **Python for Data Science**: NPTEL Certification (Nov 2024)
+*   📜 **Probability Theory for Data Science**: NPTEL Certification (May 2025)
+*   👥 **Content Head & Founding Member** – *Srijan Society* *(Oct 2023 – Jul 2024)*: Led creative content strategy, digital branding, and organized community-building student workshops.
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskan6376567236&show_icons=true&theme=tokyonight&count_private=true" alt="Muskan's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan6376567236&layout=compact&theme=tokyonight" alt="Muskan's Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan6376567236&theme=tokyonight" alt="Muskan's GitHub Streak" height="180px" />
+</p>
+
+<p align="center" style="font-size: 14px;">
+  ⭐️ From <a href="https://github.com/Muskan6376567236">Muskan6376567236</a>
+</p>
