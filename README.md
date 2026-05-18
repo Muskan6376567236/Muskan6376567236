@@ -16,6 +16,10 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muskan6376567236&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" /></a>
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Muskan6376567236/count.svg" alt="Visitor Counter" />
+</p>
+
 ---
 
 ### 💫 About Me
@@ -32,45 +36,9 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
 
 ### 🛠️ Tech Stack & Skills
 
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🧠 AI & Deep Learning</h4>
-      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" alt="Deep Learning" />
-      <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square" alt="NLP" />
-      <img src="https://img.shields.io/badge/Computer%20Vision-008080?style=flat-square" alt="Computer Vision" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-000080?style=flat-square" alt="Machine Learning" />
-      <img src="https://img.shields.io/badge/Multi%20Modal%20Models-2E8B57?style=flat-square" alt="Multi Modal Models" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>⚙️ Frameworks & Libraries</h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🔧 Tools & Environments</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="RealSense" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,pytorch,tensorflow,pandas,git,github,ubuntu,linux,ros&theme=dark&perline=6" alt="Muskan's Skills" />
+</p>
 
 ---
 
