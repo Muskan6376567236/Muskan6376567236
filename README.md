@@ -1,12 +1,19 @@
-<h1 align="center">Hi there! I'm Muskan Sethi 👋</h1>
 <p align="center">
-  <strong>B.Tech in Artificial Intelligence Student @ Amity University</strong> | <strong>AI & Deep Learning Enthusiast</strong> | <strong>Research Intern</strong>
+  <img src="./header.svg" alt="Muskan Sethi" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=89b4fa&center=true&vCenter=true&width=600&lines=B.Tech+Student+in+Artificial+Intelligence;Research+Intern+@+EIU%2C+Vietnam;Published+IEEE+Author+(CHIMERA);Deep+Learning+%26+Computer+Vision+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/muskan-sethi-99a512256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:muskansethi72@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Muskan6376567236"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muskan6376567236&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" /></a>
 </p>
 
 ---
@@ -123,6 +130,10 @@ I am a passionate **Artificial Intelligence** engineering student specializing i
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan6376567236&theme=tokyonight" alt="Muskan's GitHub Streak" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muskan6376567236&theme=tokyonight&bg_color=1e1e2e&color=89b4fa&line=f5c2e7&point=cdd6f4&area=true&hide_border=true" alt="Muskan's Activity Graph" width="100%" />
 </p>
 
 <p align="center" style="font-size: 14px;">
